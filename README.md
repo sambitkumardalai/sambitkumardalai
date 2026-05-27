@@ -1,53 +1,50 @@
 # Hi, I'm Sambit Kumar Dalai 👋
+## Java Full Stack Engineer · 5+ years
 
-## Java Full Stack Engineer
+> Building scalable, secure enterprise systems across healthcare, logistics, and government education.  
+> Specialised in backend architecture, microservices, and system modernisation (Java 8 → 21).
 
-5+ years of experience building scalable enterprise applications across healthcare, logistics, and government education domains.
+---
 
-### Tech Stack
+### 🧩 Tech Stack
 
-- Java (8–21)
-- Spring Boot
-- Microservices
-- Angular
-- MySQL
-- PostgreSQL
-- MongoDB
-- JWT / OAuth2 / RBAC
-- REST APIs
-- API Gateway
+**Backend:** Java (8–21) · Spring Boot · Microservices · REST APIs · API Gateway  
+**Frontend:** Angular · Reactive UIs  
+**Databases:** MySQL · PostgreSQL · MongoDB  
+**Security:** JWT · OAuth2 · RBAC
 
-### What I Work On
+---
 
-- High-performance backend systems
-- Distributed microservices
-- Secure enterprise applications
-- Angular dashboards and reactive UIs
-- System modernization (Java 8 → Java 21)
+### 🚀 Featured Projects
 
-### Featured Projects
+#### 🏥 Healthcare Claims Platform
+End-to-end claims processing built on Spring Boot microservices with JWT/OAuth2 security, RBAC, and API Gateway for unified service routing.  
+`Spring Boot` `OAuth2` `API Gateway` `Microservices`
 
-#### Healthcare Claims Platform
-Spring Boot microservices with JWT/OAuth2 security and API Gateway integration.
+#### 📦 Logistics Inventory System
+Enterprise inventory and reporting platform with real-time Angular dashboards backed by Spring Boot — covering warehouse tracking, stock alerts, and analytics.  
+`Angular` `Spring Boot` `PostgreSQL`
 
-#### Logistics Inventory System
-Enterprise inventory and reporting platform using Angular + Spring Boot.
+#### 🏫 Government Education Platform
+District-level monitoring system with real-time attendance, performance, and resource dashboards across institutions.  
+`Angular` `MongoDB` `Real-time analytics`
 
-#### Government Education Platform
-District-level education monitoring dashboards with real-time analytics.
+---
 
-### Coding Profiles
+### 🏆 Achievements
 
-- LeetCode
-- CodeChef
-- Codeforces
+- ⚡ **Insta Award** — Infosys (2024) · Recognised for outstanding delivery and impact
+- ⭐ **Star Performer** — CSM Technologies (2023)
 
-### Achievements
+---
 
-- Insta Award — Infosys (2024)
-- Star Performer — CSM Technologies (2023)
+### 💻 Coding Profiles
 
-### Connect With Me
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)]([YOUR_LINK](https://leetcode.com/u/sambitskd3/))
 
-- LinkedIn
-- Email
+---
+
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/sambit-kumar-dalai-b79978182/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sambitskd3@gmail.com)

@@ -40,11 +40,11 @@ District-level monitoring system with real-time attendance, performance, and res
 
 ### 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)]([YOUR_LINK](https://leetcode.com/u/sambitskd3/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sambitskd3/)
 
 ---
 
 ### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/sambit-kumar-dalai-b79978182/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambit-kumar-dalai-b79978182/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sambitskd3@gmail.com)
